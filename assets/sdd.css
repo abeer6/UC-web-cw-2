@@ -1,0 +1,10 @@
+h1 { color: red; text-align: center;}
+h2  {background-color: blue;}
+p{background-color: blueviolet;}
+h3{background-color: aqua;}
+
+.card{background-color:khaki;width: 500;text-align: center;}
+#dish-name{color:white;}
+.body{  border: black 10px solid;
+   padding: 100px;  }
+
